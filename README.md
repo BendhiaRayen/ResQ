@@ -21,3 +21,5 @@ npx ng serve
 ```
 
 CRUD REST : `/api/volunteers/`, `/api/resources/`, `/api/shelters/`, `/api/missing-persons/`.
+
+L’API Django est disponible sur `http://localhost:8000/` et le frontend Angular sur `http://localhost:4200/`.
